@@ -4,7 +4,7 @@
     "keywords": ["laravel","laravel 5","blog"],
     "require": {
         "laravel/framework": "5.*",
-        "dimsav/laravel-translatable": "6.*",
+        "dimsav/laravel-translatable": "7.*",
         "mcamara/laravel-localization": "^1.6",
         "yajra/laravel-datatables-oracle": "~6.0"
     },
