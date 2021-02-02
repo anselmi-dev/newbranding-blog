@@ -1,5 +1,5 @@
 {
-    "name": "newbranding/blog",
+    "name": "newbranding/blogdev",
     "description": "Blog for Laravel 5",
     "keywords": ["laravel","laravel 5","blog"],
     "require": {
